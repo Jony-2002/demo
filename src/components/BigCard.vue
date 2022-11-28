@@ -1,8 +1,18 @@
 <template lang="">
   <div class="shadow-md w-[700px] max-w-[100%] rounded-xl px-6 bg-white">
-    <p class="text-gray-400">Test</p>
-    <h3 class="text-4xl font-bold my-3">Test</h3>
-    <a class="text-sky-500 font-semibold" href="#">Test</a>
+    <CardInfoVue
+      subtitle="Ваш тариф:"
+      title="Биё! Фаъол бош - Сотрудник"
+      link="Сменить тариф" />
+    <CardInfoVue
+      subtitle="Остатки минут по РТ:"
+      title="102 минуты"
+      link="Подключай минуты +" />
+    <CardInfoVue
+      subtitle="Остатки интернет трафика:"
+      title="987 МБ"
+      link="Подключай мегабайты +" />
+    <CardInfoVue subtitle="Остатки" title="150" link="Обменять" />
   </div>
 </template>
 <script>
