@@ -1,5 +1,5 @@
 <template lang="">
-  <main class="px-16 py-7">
+  <main class="px-16 py-7 flex items-start justify-evenly flex-wrap gap-5 relative bottom-14">
     <SmallCardVue />
     <BigCardVue />
   </main>
