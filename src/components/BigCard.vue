@@ -12,7 +12,7 @@
       subtitle="Остатки интернет трафика:"
       title="987 МБ"
       link="Подключай мегабайты +" />
-    <CardInfoVue subtitle="Остатки" title="150" link="Обменять" />
+    <CardInfoVue subtitle="Остатки бонусных баллов" title="150" link="Обменять" />
   </div>
 </template>
 <script>
