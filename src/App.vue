@@ -1,9 +1,7 @@
 <template lang="">
-  <div>
-    Vue App
+  <div class="min-h-[100vh] bg-[#ececec] px-14 py-7">
+    
   </div>
 </template>
-<script>
-
-</script>
+<script></script>
 <style lang=""></style>
